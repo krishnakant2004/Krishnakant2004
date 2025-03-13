@@ -60,10 +60,10 @@ I'm a passionate Flutter developer transitioning into the world of Machine Learn
 
 ### 🔭 Featured Projects  
 
-<a href="https://github.com/krishnakant2004/project-name">
+<a href="[https://github.com/krishnakant2004/project-name](https://github.com/krishnakant2004/krishi-startup-flutter-app-one-stop-service-for-farmers-)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnakant2004&repo=project-name&theme=tokyonight" />
 </a>
-<a href="https://github.com/krishnakant2004/another-project">
+<a href="[https://github.com/krishnakant2004/another-project](https://github.com/krishnakant2004/krishi-backend)">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=krishnakant2004&repo=another-project&theme=tokyonight" />
 </a>
 
